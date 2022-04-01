@@ -808,7 +808,7 @@ a {
 
 /* Showcase Block */
 
-@media screen and (min-width: 1400px) {
+@media screen and (min-width: 768px) {
   .block-showcase .grid {
     grid-template-columns: 50% 50%;
   }
